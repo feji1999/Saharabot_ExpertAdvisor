@@ -1,0 +1,3 @@
+login: 154469537
+server: Exness-MT5Trial9
+pw: Eruotor#
